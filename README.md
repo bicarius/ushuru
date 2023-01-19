@@ -1,2 +1,2 @@
 # ushuru
-wesbite for ushuru
+website for ushuru
